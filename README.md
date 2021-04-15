@@ -18,7 +18,7 @@ myPlanner is an agile planner web app made with **React, Firebase, React Beautif
 
 ### Landing Page
 
-<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshttps/landing.png" />
+<img src="https://github.com/yashboura303/myPlanner/blob/master/screenshots/landing.png" />
 
 ### After the user logs in
 
