@@ -18,18 +18,18 @@ myPlanner is an agile planner web app made with **React, Firebase, React Beautif
 
 ### Landing Page
 
-<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshots/landing.png" />
+<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshttps://github.com/yashboura303/myPlanner/blob/master/screenshots/board-list.pnghttps://github.com/yashboura303/myPlanner/blob/master/screenshots/board-list.pnghttps://github.com/yashboura303/myPlanner/blob/master/screenshots/board-list.pnghttps://github.com/yashboura303/myPlanner/blob/master/screenshots/board-list.png
 
 ### After the user logs in
 
-<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshots/board-list.png" />
+<img src="https://github.com/yashboura303/myPlanner/blob/master/screenshots/board-list.png" />
 
 ### The Kanban Board
 
-<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshots/kanban.png" />
+<img src="https://github.com/yashboura303/myPlanner/blob/master/screenshots/kanban.png" />
 
 ### Task Details
 
-<img src="https://github.com/drkPrince/myPlanner/blob/main/screenshots/details.png" />
+<img src="https://github.com/yashboura303/myPlanner/blob/master/screenshots/details.png" />
 
 
