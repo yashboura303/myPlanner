@@ -1,4 +1,4 @@
-# 🚀 myPlanner - A simplified Kanban Planner.
+# 🚀 myPlanner - A simplified smart planner.
 
 
 myPlanner is an agile planner web app made with **React, Firebase, React Beautiful DND, TailwindCSS and React Markdown**. It is heavily inspired by Trello.
